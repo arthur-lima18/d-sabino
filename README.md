@@ -42,20 +42,25 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="left">Ferramentas de design:</h3>
+<h3 align="left">Ferramentas de Design:</h3>
 <p align="left">
-  <img alt="AI" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=whit"/>
+  <img alt="AI" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
   <img alt="Adobe PS" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/daniel-sabino/">
-  <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank "/>
-</a>
+<h3 align="left">Mais sobre mim:</h3>
+  <a href="https://www.linkedin.com/in/daniel-sabino/">
+    <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank "/>
+  </a>
+
+  <a href="https://www.behance.net/apenas_img">
+    <img src = "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
 </p>
 
 <br></br>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-sabino&show_icons=true&locale=en&layout=compact&theme=radical" alt="daniel-sabino" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-sabino&show_icons=true&locale=en&layout=compact&theme=radical" alt="d-sabino" />
+</p>
