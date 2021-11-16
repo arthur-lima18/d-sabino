@@ -61,6 +61,12 @@
 
 <br></br>
 
+<!--
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d-sabino&show_icons=true&locale=en&layout=compact&theme=radical" alt="d-sabino" />
 </p>
+-->
+
+![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&count_private=true&theme=prussian&hide=html,css,javascript,php&langs_count=9&exclude_repo=android-studio-settings,intellij-idea-settings,pycharm-settings,webstorm-settings,rider-settings,clion-settings,php-storm-settings,ecommerce,cursophp7-dao)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-sabino&count_private=true&show_icons=true&theme=prussian&exclude_repo=android-studio-settings,intellij-idea-settings,pycharm-settings,webstorm-settings,rider-settings,clion-settings,php-storm-settings,ecommerce,cursophp7-dao)
+
