@@ -4,8 +4,8 @@
 
 <h3 align="left">Linguagens:</h3>
 <p align="left">
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?style=for-the-badge&logo=visual-basic&logoColor=white"/>
 </p>
 
