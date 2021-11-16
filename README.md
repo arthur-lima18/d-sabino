@@ -44,8 +44,8 @@
 
 <h3 align="left">Ferramentas de design:</h3>
 <p align="left">
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=whit"/>
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img alt="AI" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=whit"/>
+  <img alt="Adobe PS" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 </p>
 
@@ -58,4 +58,4 @@
 <br></br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-lima18&show_icons=true&locale=en&layout=compact&theme=radical" alt="arthur-lima18" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-sabino&show_icons=true&locale=en&layout=compact&theme=radical" alt="daniel-sabino" /></p>
