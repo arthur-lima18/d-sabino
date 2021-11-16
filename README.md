@@ -1,4 +1,4 @@
-<h1 align="left">Um pouquinho de Daniel Sabino! 🌱</h1>
+<h1 align="left">Um pouquinho sobre Daniel Sabino! 🌱</h1>
 
 <h3 align="left">Linguagens:</h3>
 <p align="left">
