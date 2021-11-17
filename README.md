@@ -52,12 +52,12 @@
 </p>
 
 <h3 align="left">Mais sobre mim:</h3>
-  <a href="https://www.linkedin.com/in/daniel-sabino/">
-    <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank "/>
-  </a>
-
   <a href="https://www.behance.net/apenas_img">
     <img src = "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/daniel-sabino/">
+    <img src = "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_ blank "/>
   </a>
 </p>
 
