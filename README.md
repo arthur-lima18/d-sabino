@@ -73,5 +73,5 @@
 <!--
 ![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&count_private=true&theme=prussian&hide=html,css,javascript,php&langs_count=9&hide_border=true&bg_color=00000000&exclude_repo=android-studio-settings,intellij-idea-settings,pycharm-settings,webstorm-settings,rider-settings,clion-settings,php-storm-settings,ecommerce,cursophp7-dao)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&langs_count=8&hide=ruby,shell&layout=compact&hide_border=true&bg_color=00000000&text_color=currentColor)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-sabino&langs_count=8&hide=ruby,shell&layout=compact&hide_border=true&bg_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
